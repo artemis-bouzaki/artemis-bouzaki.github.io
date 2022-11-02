@@ -571,7 +571,7 @@ home_scroll-mouse{
 
 .portfolio_title{
   font-size:var(--h3-font-size);
-  marging-bottom:var(--mb-0-5);
+  margin-bottom:var(--mb-0-5);
 }
 
 .portfolio_description{
