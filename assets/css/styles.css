@@ -288,7 +288,10 @@ nav_link:hover{
 }
 
 .home_blob-img{
-  width:170px;
+  width:200px;
+  align:center;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 .home_data{
